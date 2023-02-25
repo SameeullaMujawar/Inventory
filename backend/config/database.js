@@ -1,7 +1,7 @@
 import QueryBuilder from 'node-querybuilder';
 const settings = {
     host: 'localhost',
-    database: 'db_inventory',
+    database: 'inventory',
     user: 'root',
     password: ''
 };
